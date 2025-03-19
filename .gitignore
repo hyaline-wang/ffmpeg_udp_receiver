@@ -1,0 +1,6 @@
+opencv-4.5.5/
+.vscode/
+
+cpp_opencv/build/*
+**/build/*
+C/deh264
